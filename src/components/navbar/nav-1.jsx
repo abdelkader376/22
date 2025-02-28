@@ -582,6 +582,8 @@ export default function Nav1(props){
                         quantity:1, id:242 ,name:"نكهة الشواء بودر BBQ flavor powder",price:45 ,img:img1,des:"About this item Enjoy real BBQ flavor . Delicious on so many kinds of food."
                        }, {
                         quantity:1, id:243 ,name:"نكهة الزبدة المركزة Concentrated butter oil",price:45 ,img:img1,des:"Concentrated butter oil is made from milk produced by cows. High concentration and very saving."
+                       },{
+                        quantity:1,  id:244 ,name:"بقسماط ناعم Breadcrumbs Soft",price:40 ,img:img1,des:"High quality  breadcrumbs, used for breading for chicken mosahhab, mozzarella sticks, chicken pane , scallops and many foods."
                        },
                                        
            ];
