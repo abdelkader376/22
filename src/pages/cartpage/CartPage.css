@@ -1,0 +1,12 @@
+.table{
+    margin-top: 20vh;
+}
+.table tbody tr{
+    text-align: center;
+}
+.table tbody tr td {
+    width: 300px;
+}
+.table tbody tr td img{
+    width: 100%;
+}

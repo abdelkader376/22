@@ -1,0 +1,15 @@
+.section-1{
+    background-color: #d9f3f834;
+}
+.section-8 .container .contact{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.section-4 .container .contact{
+    margin: 10vh 0;
+}
+.container .contact{
+    margin: 10vh 0; 
+}

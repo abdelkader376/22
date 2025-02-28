@@ -1,0 +1,39 @@
+.section-1 .contact{
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    margin-bottom: 100px;
+    margin-top: 20vh;
+}
+.section-1 .section-2{
+    margin: 50px 0;
+}
+.sectino-2 .contact{
+    display: flex;
+    justify-content: space-between; 
+}
+
+ .section-3  .contact{
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-end;
+    margin: 100px 0px;
+}
+.section-6 .contant {
+    width: 80%;
+    margin: auto;
+    /* height: 400px; */
+    /* background-color: brown; */
+}
+.section-6 .contact .slick-initialized button .slick-prev:before{
+    /* background-color: black; */
+    color: black;
+}
+
+
+.section-10{
+    border-bottom: 1px solid rgba(128, 128, 128, 0);
+    box-shadow: #0000003b 0px 0px 12px;
+    width: 100%;
+}
