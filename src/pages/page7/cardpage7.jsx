@@ -15,6 +15,9 @@ export default function CardPage4(){
            },{
             quantity:1,  id:133 ,name:"بقسماط لون ذهبي Breadcrumbs golden color",price:40 ,img:img1,des:"High quality (golden color) breadcrumbs, used for breading for chicken mosahhab, mozzarella sticks, chicken pane , scallops and many foods."
            },
+           {
+            quantity:1,  id:244 ,name:"بقسماط ناعم Breadcrumbs Soft",price:40 ,img:img1,des:"High quality  breadcrumbs, used for breading for chicken mosahhab, mozzarella sticks, chicken pane , scallops and many foods."
+           },
     ]
 
     const productPerPage=20;
